@@ -1,18 +1,18 @@
 {
   "name": "tree-widths",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/treeframework/trumps.widths",
   "authors": [
-    "Ilia Kolev <treeframework@iliakolev.com>"
+    "Harry Roberts <harry@csswizardry.com>",
+    "Ilia Kolev <contact@iliakolev.com>"
   ],
-  "description": "TreeFramework - Width helper classes.",
+  "description": "Width helper classes.",
   "main": "_widths.scss",
   "keywords": [
-    "TreeFramework",
     "css"
   ],
-  "license": "MIT",
+  "license": "Apache",
   "dependencies": {
-    "tree-defaults": "~0.1.0"
+    "tree-defaults": "latest"
   }
 }
