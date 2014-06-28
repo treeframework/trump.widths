@@ -12,6 +12,10 @@ $tree-use-fractions:   true !default;
 
 @if $tree-use-fractions == true {
 
+// Whole.
+[class~="#{$tree-namespace}1/1"]       { width: 100% !important; }
+
+
 // Halves.
 [class~="#{$tree-namespace}1/2"],
 [class~="#{$tree-namespace}2/4"],
@@ -83,6 +87,9 @@ $tree-use-fractions:   true !default;
 }
 
 @else {
+
+// Whole.
+.#{$tree-namespace}one-whole           { widht: 100% !important; }
 
 // Halves.
 .#{$tree-namespace}one-half,
