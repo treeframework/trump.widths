@@ -1,7 +1,13 @@
 # Widths
 
-The `widths` module is clone of [inuitcss] (https://github.com/inuitcss) -
-[trumps.widths] (https://github.com/inuitcss/trumps.widths) <q>a simple file of
-helper classes to drop widths onto elements such as grid systems</q>.
+The `widths` module is a simple file of helper classes to drop widths onto
+elements such as grid systems.
 
-It is develop and maintained by [Harry Roberts] (https://twitter.com/csswizardry).
+Install using Bower:
+
+    $ bower install --save tree-widths
+
+## Credits
+
+* **[inuitcss](https://github.com/inuitcss)** Powerful, Sass-based, OOCSS
+framework designed with scalability and performance in mind.
