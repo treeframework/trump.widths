@@ -90,13 +90,7 @@ $tree-use-fractions:       true !default;
     [class~="#{$tree-widths-namespace}7/12"]      { width: 58.3333333% !important; }
     [class~="#{$tree-widths-namespace}11/12"]     { width: 91.6666666% !important; }
 
-}
-
-
-
-
-
-@else {
+} @else {
 
     // Whole.
     .#{$tree-widths-namespace}one-whole           { width: 100% !important; }
