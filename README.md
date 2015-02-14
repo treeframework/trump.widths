@@ -12,7 +12,7 @@ $ bower install tree-widths --save
 Install using npm:
 
 ```sh
-$ npm install trr-widths --save
+$ npm install tree-widths --save
 ```
 
 ## Credits
