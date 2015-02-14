@@ -5,7 +5,15 @@ elements such as grid systems.
 
 Install using Bower:
 
-    $ bower install --save tree-widths
+```sh
+$ bower install tree-widths --save
+```
+
+Install using npm:
+
+```sh
+$ npm install trr-widths --save
+```
 
 ## Credits
 
