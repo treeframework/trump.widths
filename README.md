@@ -53,7 +53,7 @@ Once installed `@import` into your project in its Trump layer:
 
 The least recommended option for installation is to simply download
 `_trump.widths.scss` into your project and `@import` it into your project in its
-Tools layer.
+Trump layer.
 
 ## Usage
 
