@@ -59,10 +59,10 @@ Tools layer.
 
 `widths` classes are available in one of two formats:
 
-1. fraction-like (default format), e.g.: `<div class="u-1/2">...<div>`
-2. spoken-word, e.g.: `<div class="u-1-of-2">...</div>`
+* fraction-like (default format), e.g.: `<div class="u-1/2">...<div>`
+* spoken-word, e.g.: `<div class="u-1-of-2">...</div>`
 
-Enable `spkone-word` format by predefining the `$tree-use-fractions` feature
+Enable `spoken-word` format by predefining the `$tree-use-fractions` feature
 switch, e.g.:
 
 ```scss
