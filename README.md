@@ -16,8 +16,7 @@ install and @import these dependencies in the relevant way.
 
 ## Installation
 
-You can install `widths` module via Bower, npm, Git Submodule, or copy and
-paste.
+You can install `widths` module via Bower, npm, or copy and paste.
 
 ## Install using Bower:
 
@@ -35,18 +34,6 @@ Once installed, `@import` into your project in its Trump layer:
 
 ```sh
 $ npm install tree-widths --save
-```
-
-### Install as a Git Submodule
-
-```sh
-$ git submodule add git@github.com:treeframework/trump.widths.git
-```
-
-Once installed `@import` into your project in its Trump layer:
-
-```scss
-@import "trump.widths/trump.widths";
 ```
 
 ### Install via file download
